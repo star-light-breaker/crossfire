@@ -1,5 +1,5 @@
 {
-    "name": "V2Ray",
+    "name": "crossfire",
     "description": "Deploy V2ray on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
@@ -8,7 +8,7 @@
             "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://github.com/star-light-breaker/crossfire/",
+    "repository": "https://github.com/star-light-breaker/crossfire",
     "stack": "container"
 }
